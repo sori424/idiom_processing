@@ -1,0 +1,28 @@
+You need to create:
+
+first_clause: A sentence that must contain the idiom exactly. Use "because" as a connector to continue the sentence after the idiom. Important: This sentence must not include any additional words that hint at whether the idiom is used figuratively or literally.
+Two completions for that sentence:
+figurative_word: A single word that shows the idiom is being used in its figurative sense.
+literal_word: A single word that shows the idiom is being used in its literal sense.
+
+Here are examples of valid outputs: 
+
+{
+  "idiom": "kick the bucket",
+  "first_clause": "He would kick the bucket because he was",
+  "figurative_word": "old",
+  "literal_word": "mad"
+}
+
+{
+  "idiom": "spill the beans",
+  "first_clause": "She spilled the beans because she was",
+  "figurative_word": "nervous",
+  "literal_word": "clumsy"
+}
+
+Task Summary:
+
+Input: An idiom
+Output: A JSON array where each object includes idiom, a sentence (first_clause) that must contain the idiom exactly (without revealing its figurative meaning) followed by "because", and two single-word completions: one to indicate a figurative interpretation and one to indicate a literal interpretation.
+Important: The first_clause must contain the idiom exactly, without any hints that reveal whether the idiom is being used figuratively or literally. The second part of the sentence should be only a single word indicating the intended meaning.

@@ -1,0 +1,19 @@
+You need to create:
+
+For a given list of idioms and an associated sentence (original_sentence) that uses the idiom, generate two paraphrased versions of the sentence:
+figurative_sentence: Rewrite the original_sentence by replacing the idiom with its actual figurative meaning. 
+literal_sentence: Rewrite the original_sentence by interpreting the idiom literally, leading to a misunderstanding of its meaning. Important: Do not use the words "physically" or "literally" in the sentence. 
+
+For example, for the idiom "kick the bucket", if the original_sentence is "He would kick the bucket because he was", a valid output would be:
+
+{
+  "idiom": "kick the bucket",
+  "original_sentence": "He would kick the bucket because he was",
+  "figurative_sentence": "He would die because he was",
+  "literal_sentence": "He would kick the container because he was"
+}
+
+Task Summary:
+
+Input: An idiom and original_sentence that uses the idiom (without revealing whether it is figurative or literal)
+Output: A JSON array where each object includes idiom, a sentence (original_sentence) that uses the idiom (without revealing its figurative meaning), and two paraphrased sentences: one to indicate a figurative interpretation of the idiom and one to indicate a literal misinterpretation of the idiom.

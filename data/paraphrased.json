@@ -1,0 +1,1472 @@
+[
+    {
+        "idiom": "ace in the hole",
+        "original_sentence": "They had an ace in the hole because they were",
+        "figurative_sentence": "They had a secret advantage because they were",
+        "literal_sentence": "They had a playing card in a hole because they were"
+    },
+    {
+        "idiom": "across the board",
+        "original_sentence": "The changes were applied across the board because they were",
+        "figurative_sentence": "The changes were applied universally because they were",
+        "literal_sentence": "The changes were applied to a wooden plank because they were"
+    },
+    {
+        "idiom": "add fuel to the flame",
+        "original_sentence": "They add fuel to the flame because they are",
+        "figurative_sentence": "They make the situation worse because they are",
+        "literal_sentence": "They pour gasoline on the fire because they are"
+    },
+    {
+        "idiom": "against the grain",
+        "original_sentence": "He went against the grain because he was",
+        "figurative_sentence": "He went contrary to the conventional way because he was",
+        "literal_sentence": "He went in opposition to the direction of the wood fibers because he was"
+    },
+    {
+        "idiom": "along for the ride",
+        "original_sentence": "They decided to come along for the ride because they were",
+        "figurative_sentence": "They decided to participate and see where things went because they were",
+        "literal_sentence": "They decided to accompany someone on a journey because they were"
+    },
+    {
+        "idiom": "at the tip of his tongue",
+        "original_sentence": "It was at the tip of his tongue because it was",
+        "figurative_sentence": "It was about to be said by him because it was",
+        "literal_sentence": "It was located at the end of his tongue because it was"
+    },
+    {
+        "idiom": "back against the wall",
+        "original_sentence": "They had their back against the wall because they were",
+        "figurative_sentence": "They were in a desperate situation because they were",
+        "literal_sentence": "They were standing with their back against a wall because they were"
+    },
+    {
+        "idiom": "ball of fire",
+        "original_sentence": "He was a ball of fire because he was",
+        "figurative_sentence": "He was full of energy and enthusiasm because he was",
+        "literal_sentence": "He was a spherical flame because he was"
+    },
+    {
+        "idiom": "bark up the wrong tree",
+        "original_sentence": "They will bark up the wrong tree because they are",
+        "figurative_sentence": "They will pursue a mistaken or misguided course of action because they are",
+        "literal_sentence": "They will make a loud cry at the base of an incorrect tree because they are"
+    },
+    {
+        "idiom": "bend over backwards",
+        "original_sentence": "They will bend over backwards because they are",
+        "figurative_sentence": "They will go out of their way to help because they are",
+        "literal_sentence": "They will bend their body backwards because they are"
+    },
+    {
+        "idiom": "big head",
+        "original_sentence": "He has a big head because he is",
+        "figurative_sentence": "He is conceited because he is",
+        "literal_sentence": "He has a large skull because he is"
+    },
+    {
+        "idiom": "big mouth",
+        "original_sentence": "He has a big mouth because he is",
+        "figurative_sentence": "He talks too much because he is",
+        "literal_sentence": "He has a large oral cavity because he is"
+    },
+    {
+        "idiom": "birthday suit",
+        "original_sentence": "He was in his birthday suit because he was",
+        "figurative_sentence": "He was naked because he was",
+        "literal_sentence": "He was wearing the outfit he wore on his birthday because he was"
+    },
+    {
+        "idiom": "bit off more than he can chew",
+        "original_sentence": "He bit off more than he can chew because he was",
+        "figurative_sentence": "He took on more responsibilities than he can handle because he was",
+        "literal_sentence": "He chewed a piece of food that was too big for his mouth because he was"
+    },
+    {
+        "idiom": "bite your tongue",
+        "original_sentence": "He had to bite your tongue because he was",
+        "figurative_sentence": "He had to remain silent because he was",
+        "literal_sentence": "He had to grip his tongue with his teeth because he was"
+    },
+    {
+        "idiom": "black and white",
+        "original_sentence": "It is black and white because it is",
+        "figurative_sentence": "It is clear and obvious because it is",
+        "literal_sentence": "It is colored black and white because it is"
+    },
+    {
+        "idiom": "blow his own horn",
+        "original_sentence": "He would blow his own horn because he was",
+        "figurative_sentence": "He would boast about himself because he was",
+        "literal_sentence": "He would play a musical horn that belonged to him because he was"
+    },
+    {
+        "idiom": "blow the whistle",
+        "original_sentence": "He would blow the whistle because he was",
+        "figurative_sentence": "He would report a wrongdoing because he was",
+        "literal_sentence": "He would make a loud noise with a whistle because he was"
+    },
+    {
+        "idiom": "bone to pick",
+        "original_sentence": "He had a bone to pick because he was",
+        "figurative_sentence": "He had a complaint to discuss because he was",
+        "literal_sentence": "He had a bone that he wanted to choose because he was"
+    },
+    {
+        "idiom": "born yesterday",
+        "original_sentence": "He must have been born yesterday because he was",
+        "figurative_sentence": "He must be extremely naive because he was",
+        "literal_sentence": "He must have emerged from his mother's womb the day before today because he was"
+    },
+    {
+        "idiom": "break the ice",
+        "original_sentence": "They had to break the ice because they were",
+        "figurative_sentence": "They had to ease the tension because they were",
+        "literal_sentence": "They had to shatter the frozen water because they were"
+    },
+    {
+        "idiom": "breathe down his neck",
+        "original_sentence": "He will breathe down his neck because he is",
+        "figurative_sentence": "He will closely supervise him because he is",
+        "literal_sentence": "He will exhale air down the back of his neck because he is"
+    },
+    {
+        "idiom": "bring home the bacon",
+        "original_sentence": "He will bring home the bacon because he is",
+        "figurative_sentence": "He will earn a living and support his family because he is",
+        "literal_sentence": "He will carry cooked pork back to his residence because he is"
+    },
+    {
+        "idiom": "bring to light",
+        "original_sentence": "She tried to bring to light because she was",
+        "figurative_sentence": "She tried to reveal the truth because she was",
+        "literal_sentence": "She tried to carry a light source because she was"
+    },
+    {
+        "idiom": "buckle down",
+        "original_sentence": "They had to buckle down because they were",
+        "figurative_sentence": "They had to work hard and focus because they were",
+        "literal_sentence": "They had to fasten their belts tightly because they were"
+    },
+    {
+        "idiom": "burn a hole in his pocket",
+        "original_sentence": "He would burn a hole in his pocket because he was",
+        "figurative_sentence": "He would spend his money quickly because he was",
+        "literal_sentence": "He would create a hole in his clothing with fire because he was"
+    },
+    {
+        "idiom": "burn out",
+        "original_sentence": "He will burn out because he is",
+        "figurative_sentence": "He will become exhausted because he is",
+        "literal_sentence": "He will catch fire because he is"
+    },
+    {
+        "idiom": "bury his head in the sand",
+        "original_sentence": "He would bury his head in the sand because he was",
+        "figurative_sentence": "He would avoid the problem because he was",
+        "literal_sentence": "He would dig a hole and submerge his head in it because he was"
+    },
+    {
+        "idiom": "bury the hatchet",
+        "original_sentence": "They decided to bury the hatchet because they were",
+        "figurative_sentence": "They decided to put their differences aside and forgive each other because they were",
+        "literal_sentence": "They decided to dig a hole and hide the axe because they were"
+    },
+    {
+        "idiom": "card up his sleeve",
+        "original_sentence": "He had a card up his sleeve because he was",
+        "figurative_sentence": "He had a secret plan because he was",
+        "literal_sentence": "He had a playing card hidden in his sleeve because he was"
+    },
+    {
+        "idiom": "carry a torch",
+        "original_sentence": "He would carry a torch because he was",
+        "figurative_sentence": "He would have a long-lasting and unrequited love because he was",
+        "literal_sentence": "He would hold a flame-producing device because he was"
+    },
+    {
+        "idiom": "caught him with his pants down",
+        "original_sentence": "They caught him with his pants down because he was",
+        "figurative_sentence": "They caught him off guard because he was",
+        "literal_sentence": "They found him with his trousers lowered because he was"
+    },
+    {
+        "idiom": "chewed the fat",
+        "original_sentence": "They chewed the fat because they were",
+        "figurative_sentence": "They had a casual conversation because they were",
+        "literal_sentence": "They bit down on fatty tissue because they were"
+    },
+    {
+        "idiom": "chicken feed",
+        "original_sentence": "It was chicken feed because it was",
+        "figurative_sentence": "It was insignificant or worthless because it was",
+        "literal_sentence": "It was food for chickens because it was"
+    },
+    {
+        "idiom": "clean slate",
+        "original_sentence": "They gave him a clean slate because he was",
+        "figurative_sentence": "They gave him a fresh start because he was",
+        "literal_sentence": "They gave him a blank blackboard because he was"
+    },
+    {
+        "idiom": "climb the walls",
+        "original_sentence": "She will climb the walls because she is",
+        "figurative_sentence": "She will go crazy or feel extremely anxious because she is",
+        "literal_sentence": "She will ascend the vertical surfaces because she is"
+    },
+    {
+        "idiom": "clip his wings",
+        "original_sentence": "They decided to clip his wings because he was",
+        "figurative_sentence": "They decided to limit his power or freedom because he was",
+        "literal_sentence": "They decided to cut his wings off because he was"
+    },
+    {
+        "idiom": "coast is clear",
+        "original_sentence": "They waited until the coast is clear because it was",
+        "figurative_sentence": "They waited until it was safe to proceed because it was",
+        "literal_sentence": "They waited until the coastline was visible because it was"
+    },
+    {
+        "idiom": "came clean",
+        "original_sentence": "He came clean because he was",
+        "figurative_sentence": "He confessed the truth because he was",
+        "literal_sentence": "He washed himself because he was"
+    },
+    {
+        "idiom": "come down to earth",
+        "original_sentence": "He needs to come down to earth because he is",
+        "figurative_sentence": "He needs to become more practical and realistic because he is",
+        "literal_sentence": "He needs to descend from the sky to the ground because he is"
+    },
+    {
+        "idiom": "cough up",
+        "original_sentence": "He would cough up because he was",
+        "figurative_sentence": "He would confess or reveal information because he was",
+        "literal_sentence": "He would expel something from his lungs because he was"
+    },
+    {
+        "idiom": "cover his tracks",
+        "original_sentence": "He had to cover his tracks because he was",
+        "figurative_sentence": "He had to conceal his actions because he was",
+        "literal_sentence": "He had to cover the footprints he made because he was"
+    },
+    {
+        "idiom": "cross his fingers",
+        "original_sentence": "He would cross his fingers because he was",
+        "figurative_sentence": "He would hope for good luck because he was",
+        "literal_sentence": "He would place one finger over the other because he was"
+    },
+    {
+        "idiom": "cup of tea",
+        "original_sentence": "It was a cup of tea because it was",
+        "figurative_sentence": "It was a delightful and pleasant experience because it was",
+        "literal_sentence": "It was a container filled with tea leaves and hot water because it was"
+    },
+    {
+        "idiom": "cut them down to size",
+        "original_sentence": "He cut them down to size because they were",
+        "figurative_sentence": "He humbled them because they were",
+        "literal_sentence": "He reduced their height because they were"
+    },
+    {
+        "idiom": "cut his throat",
+        "original_sentence": "He would cut his throat because he was",
+        "figurative_sentence": "He would harm his own interests because he was",
+        "literal_sentence": "He would slash his own neck because he was"
+    },
+    {
+        "idiom": "cuts to the bone",
+        "original_sentence": "It cuts to the bone because it was",
+        "figurative_sentence": "It offends deeply because it was",
+        "literal_sentence": "It makes a cut into the bone because it was"
+    },
+    {
+        "idiom": "dead duck",
+        "original_sentence": "It was a dead duck because it was",
+        "figurative_sentence": "It was a hopeless situation because it was",
+        "literal_sentence": "It was a deceased waterbird because it was"
+    },
+    {
+        "idiom": "dirty his hands",
+        "original_sentence": "He would dirty his hands because he was",
+        "figurative_sentence": "He would become involved in something unpleasant or immoral because he was",
+        "literal_sentence": "He would get his hands filthy because he was"
+    },
+    {
+        "idiom": "dose of his own medicine",
+        "original_sentence": "He got a dose of his own medicine because he was",
+        "figurative_sentence": "He was treated the way he had treated others because he was",
+        "literal_sentence": "He received a portion of the medication he usually prescribed because he was"
+    },
+    {
+        "idiom": "down his alley",
+        "original_sentence": "The new job was down his alley because he was",
+        "figurative_sentence": "The new job was suited to his skills and interests because he was",
+        "literal_sentence": "The new job was located in the alley next to his house because he was"
+    },
+    {
+        "idiom": "down the line",
+        "original_sentence": "They will meet down the line because they are",
+        "figurative_sentence": "They will meet at a future point because they are",
+        "literal_sentence": "They will meet along the railway track because they are"
+    },
+    {
+        "idiom": "draw blood",
+        "original_sentence": "The nurse tried to draw blood because she was",
+        "figurative_sentence": "The nurse tried to provoke a reaction because she was",
+        "literal_sentence": "The nurse tried to extract blood from a vein because she was"
+    },
+    {
+        "idiom": "draw the line",
+        "original_sentence": "They will draw the line because they are",
+        "figurative_sentence": "They will set a boundary because they are",
+        "literal_sentence": "They will create a line on a surface because they are"
+    },
+    {
+        "idiom": "eats like a bird",
+        "original_sentence": "She eats like a bird because she is",
+        "figurative_sentence": "She eats very little because she is",
+        "literal_sentence": "She pecks at her food with her beak like a bird because she is"
+    },
+    {
+        "idiom": "eat like a horse",
+        "original_sentence": "He will eat like a horse because he is",
+        "figurative_sentence": "He will eat a lot because he is",
+        "literal_sentence": "He will consume food in the same manner as a horse because he is"
+    },
+    {
+        "idiom": "eat out of one's hand",
+        "original_sentence": "They would eat out of one's hand because they were",
+        "figurative_sentence": "They would obey every command without question because they were",
+        "literal_sentence": "They would take food from someone's palm because they were"
+    },
+    {
+        "idiom": "end of the line",
+        "original_sentence": "He was at the end of the line because he was",
+        "figurative_sentence": "He had no more options because he was",
+        "literal_sentence": "He was standing at the last stop on the railway because he was"
+    },
+    {
+        "idiom": "end of the road",
+        "original_sentence": "They reached the end of the road because they were",
+        "figurative_sentence": "They had no more options or possibilities because they were",
+        "literal_sentence": "They arrived at the last point of the highway because they were"
+    },
+    {
+        "idiom": "face the music",
+        "original_sentence": "He would face the music because he was",
+        "figurative_sentence": "He would accept the consequences because he was",
+        "literal_sentence": "He would turn his face towards the sound of music because he was"
+    },
+    {
+        "idiom": "facts of life",
+        "original_sentence": "He learned the facts of life because he was",
+        "figurative_sentence": "He learned about the harsh realities of the world because he was",
+        "literal_sentence": "He studied biology and reproduction because he was"
+    },
+    {
+        "idiom": "fall by the wayside",
+        "original_sentence": "It would fall by the wayside because it was",
+        "figurative_sentence": "It would fail or be abandoned because it was",
+        "literal_sentence": "It would tumble to the ground beside the road because it was"
+    },
+    {
+        "idiom": "fell down on the job",
+        "original_sentence": "He fell down on the job because he was",
+        "figurative_sentence": "He failed to do his job properly because he was",
+        "literal_sentence": "He tripped and fell while working because he was"
+    },
+    {
+        "idiom": "felt it in his bones",
+        "original_sentence": "He felt it in his bones because he was",
+        "figurative_sentence": "He had a strong intuition about it because he was",
+        "literal_sentence": "He had a sensation in his skeletal system because he was"
+    },
+    {
+        "idiom": "feet on the ground",
+        "original_sentence": "She kept her feet on the ground because she was",
+        "figurative_sentence": "She remained practical and sensible because she was",
+        "literal_sentence": "She kept her feet touching the earth because she was"
+    },
+    {
+        "idiom": "fish out of water",
+        "original_sentence": "He felt like a fish out of water because he was",
+        "figurative_sentence": "He felt completely out of place because he was",
+        "literal_sentence": "He felt like a fish that had been removed from the water because he was"
+    },
+    {
+        "idiom": "foam at the mouth",
+        "original_sentence": "He would foam at the mouth because he was",
+        "figurative_sentence": "He would be furious because he was",
+        "literal_sentence": "He would have foam coming out of his mouth because he was"
+    },
+    {
+        "idiom": "follow his nose",
+        "original_sentence": "He will follow his nose because he is",
+        "figurative_sentence": "He will follow his intuition because he is",
+        "literal_sentence": "He will move in the direction his nose is pointing because he is"
+    },
+    {
+        "idiom": "from the ground up",
+        "original_sentence": "They built the house from the ground up because it was",
+        "figurative_sentence": "They completely rebuilt the house because it was",
+        "literal_sentence": "They constructed the house starting from the earth's surface because it was"
+    },
+    {
+        "idiom": "get away with murder",
+        "original_sentence": "He seemed to get away with murder because he was",
+        "figurative_sentence": "He seemed to go unpunished for his wrongdoings because he was",
+        "literal_sentence": "He seemed to escape punishment for killing someone because he was"
+    },
+    {
+        "idiom": "get down off your high horse",
+        "original_sentence": "He was told to get down off your high horse because he was",
+        "figurative_sentence": "He was told to stop acting superior because he was",
+        "literal_sentence": "He was told to dismount from the tall horse he was riding because he was"
+    },
+    {
+        "idiom": "get his feet wet",
+        "original_sentence": "He would get his feet wet because he was",
+        "figurative_sentence": "He would gain some initial experience because he was",
+        "literal_sentence": "He would soak his feet in water because he was"
+    },
+    {
+        "idiom": "get his goat",
+        "original_sentence": "He would get his goat because he was",
+        "figurative_sentence": "He would annoy him because he was",
+        "literal_sentence": "He would retrieve his pet goat because he was"
+    },
+    {
+        "idiom": "get off it",
+        "original_sentence": "He would get off it because he was",
+        "figurative_sentence": "He would stop talking about it because he was",
+        "literal_sentence": "He would dismount from it because he was"
+    },
+    {
+        "idiom": "got off on the wrong foot",
+        "original_sentence": "They got off on the wrong foot because they were",
+        "figurative_sentence": "They started with a bad relationship because they were",
+        "literal_sentence": "They stepped off with the wrong foot first because they were"
+    },
+    {
+        "idiom": "get off the ground",
+        "original_sentence": "It will get off the ground because it was",
+        "figurative_sentence": "It will become successful because it was",
+        "literal_sentence": "It will lift off the surface because it was"
+    },
+    {
+        "idiom": "get off the hook",
+        "original_sentence": "He managed to get off the hook because he was",
+        "figurative_sentence": "He managed to avoid punishment or responsibility because he was",
+        "literal_sentence": "He managed to remove himself from a fishing hook because he was"
+    },
+    {
+        "idiom": "got sacked",
+        "original_sentence": "He got sacked because he was",
+        "figurative_sentence": "He was fired because he was",
+        "literal_sentence": "He received a sack because he was"
+    },
+    {
+        "idiom": "get the ball rolling",
+        "original_sentence": "They had to get the ball rolling because they were",
+        "figurative_sentence": "They had to take the first step and initiate the process because they were",
+        "literal_sentence": "They had to start pushing a ball to make it move because they were"
+    },
+    {
+        "idiom": "get the message",
+        "original_sentence": "They would get the message because they were",
+        "figurative_sentence": "They would understand the implication because they were",
+        "literal_sentence": "They would receive a written note because they were"
+    },
+    {
+        "idiom": "get to first base",
+        "original_sentence": "They would get to first base because they were",
+        "figurative_sentence": "They would make initial progress because they were",
+        "literal_sentence": "They would arrive at the first base on a baseball field because they were"
+    },
+    {
+        "idiom": "give a buzz",
+        "original_sentence": "She would give a buzz because she was",
+        "figurative_sentence": "She would create excitement because she was",
+        "literal_sentence": "She would produce a humming noise because she was"
+    },
+    {
+        "idiom": "give a hand",
+        "original_sentence": "They will give a hand because they are",
+        "figurative_sentence": "They will assist because they are",
+        "literal_sentence": "They will offer a body part because they are"
+    },
+    {
+        "idiom": "give the shirt off his back",
+        "original_sentence": "He would give the shirt off his back because he was",
+        "figurative_sentence": "He would give anything he had because he was",
+        "literal_sentence": "He would take off his shirt and hand it over because he was"
+    },
+    {
+        "idiom": "go fly a kite",
+        "original_sentence": "They told him to go fly a kite because he was",
+        "figurative_sentence": "They told him to leave them alone because he was",
+        "literal_sentence": "They told him to engage in the activity of flying a toy kite because he was"
+    },
+    {
+        "idiom": "go jump in the lake",
+        "original_sentence": "He told me to go jump in the lake because I was",
+        "figurative_sentence": "He told me to get lost or leave him alone because I was",
+        "literal_sentence": "He told me to jump into the body of water because I was"
+    },
+    {
+        "idiom": "went off the deep end",
+        "original_sentence": "He went off the deep end because he was",
+        "figurative_sentence": "He became completely irrational and out of control because he was",
+        "literal_sentence": "He jumped into the deepest part of the pool because he was"
+    },
+    {
+        "idiom": "go straight",
+        "original_sentence": "He will go straight because he is",
+        "figurative_sentence": "He will behave honestly because he is",
+        "literal_sentence": "He will proceed in a straight line because he is"
+    },
+    {
+        "idiom": "go to town",
+        "original_sentence": "They will go to town because they are",
+        "figurative_sentence": "They will do something enthusiastically and thoroughly because they are",
+        "literal_sentence": "They will travel to the city because they are"
+    },
+    {
+        "idiom": "go under",
+        "original_sentence": "The company will go under because it is",
+        "figurative_sentence": "The company will go bankrupt because it is",
+        "literal_sentence": "The company will sink beneath the surface because it is"
+    },
+    {
+        "idiom": "green thumb",
+        "original_sentence": "She would have a green thumb because she is",
+        "figurative_sentence": "She would have a talent for gardening because she is",
+        "literal_sentence": "She would have a thumb that is green in color because she is"
+    },
+    {
+        "idiom": "hair stands on end",
+        "original_sentence": "His hair stands on end because he was",
+        "figurative_sentence": "He feels extremely frightened or shocked because he was",
+        "literal_sentence": "His hair is standing upright on his scalp because he was"
+    },
+    {
+        "idiom": "hard nut to crack",
+        "original_sentence": "The problem was a hard nut to crack because it was",
+        "figurative_sentence": "The problem was difficult to solve because it was",
+        "literal_sentence": "The problem was a hard nut that needed to be cracked open because it was"
+    },
+    {
+        "idiom": "had a ball",
+        "original_sentence": "They had a ball because they were",
+        "figurative_sentence": "They had a great time because they were",
+        "literal_sentence": "They possessed a spherical object because they were"
+    },
+    {
+        "idiom": "has a screw loose",
+        "original_sentence": "He has a screw loose because he is",
+        "figurative_sentence": "He is mentally unstable because he is",
+        "literal_sentence": "He has a loose screw in his possession because he is"
+    },
+    {
+        "idiom": "had all his marbles",
+        "original_sentence": "He had all his marbles because he was",
+        "figurative_sentence": "He was completely sane because he was",
+        "literal_sentence": "He possessed all of his small glass balls because he was"
+    },
+    {
+        "idiom": "has his hands full",
+        "original_sentence": "He has his hands full because he is",
+        "figurative_sentence": "He is very busy because he is",
+        "literal_sentence": "His hands are completely filled because he is"
+    },
+    {
+        "idiom": "had his hands tied",
+        "original_sentence": "He had his hands tied because he was",
+        "figurative_sentence": "He was restricted from acting because he was",
+        "literal_sentence": "He had his hands bound together with rope because he was"
+    },
+    {
+        "idiom": "head above water",
+        "original_sentence": "He kept his head above water because he was",
+        "figurative_sentence": "He managed to stay financially stable because he was",
+        "literal_sentence": "He kept his head above the surface of the water because he was"
+    },
+    {
+        "idiom": "hit below the belt",
+        "original_sentence": "He hit below the belt because he was",
+        "figurative_sentence": "He made an unfair and hurtful comment because he was",
+        "literal_sentence": "He threw a punch below his opponent's waistline because he was"
+    },
+    {
+        "idiom": "hit the ceiling",
+        "original_sentence": "He hit the ceiling because he was",
+        "figurative_sentence": "He became extremely angry because he was",
+        "literal_sentence": "He bumped his head on the ceiling because he was"
+    },
+    {
+        "idiom": "hit the hay",
+        "original_sentence": "They will hit the hay because they are",
+        "figurative_sentence": "They will go to sleep because they are",
+        "literal_sentence": "They will strike the dried grass because they are"
+    },
+    {
+        "idiom": "hit the nail on the head",
+        "original_sentence": "He hit the nail on the head because he was",
+        "figurative_sentence": "He accurately identified the problem because he was",
+        "literal_sentence": "He struck a nail on its head because he was"
+    },
+    {
+        "idiom": "hit the road",
+        "original_sentence": "They will hit the road because they are",
+        "figurative_sentence": "They will start traveling because they are",
+        "literal_sentence": "They will strike the road with force because they are"
+    },
+    {
+        "idiom": "hit the sack",
+        "original_sentence": "He would hit the sack because he was",
+        "figurative_sentence": "He would go to bed because he was",
+        "literal_sentence": "He would strike the bag because he was"
+    },
+    {
+        "idiom": "hit the spot",
+        "original_sentence": "The coffee hit the spot because it was",
+        "figurative_sentence": "The coffee was exactly what I needed because it was",
+        "literal_sentence": "The coffee struck a specific location because it was"
+    },
+    {
+        "idiom": "hold a candle to",
+        "original_sentence": "He can't hold a candle to because he is",
+        "figurative_sentence": "He can't compare to because he is",
+        "literal_sentence": "He can't grasp a candle next to because he is"
+    },
+    {
+        "idiom": "hold his horses",
+        "original_sentence": "He had to hold his horses because he was",
+        "figurative_sentence": "He had to slow down or wait because he was",
+        "literal_sentence": "He had to grasp the reins of his horses because he was"
+    },
+    {
+        "idiom": "hold his tongue",
+        "original_sentence": "He had to hold his tongue because he was",
+        "figurative_sentence": "He had to remain silent because he was",
+        "literal_sentence": "He had to grasp his tongue with his fingers because he was"
+    },
+    {
+        "idiom": "hold the line",
+        "original_sentence": "They had to hold the line because they were",
+        "figurative_sentence": "They had to maintain their position because they were",
+        "literal_sentence": "They had to grasp a telephone line because they were"
+    },
+    {
+        "idiom": "honeymoon is over",
+        "original_sentence": "The honeymoon is over because it was",
+        "figurative_sentence": "The initial excitement and happiness have ended because it was",
+        "literal_sentence": "The vacation after the wedding has ended because it was"
+    },
+    {
+        "idiom": "hopped up",
+        "original_sentence": "The car hopped up because it was",
+        "figurative_sentence": "The car suddenly accelerated because it was",
+        "literal_sentence": "The car jumped upward because it was"
+    },
+    {
+        "idiom": "if the shoe fits",
+        "original_sentence": "She said if the shoe fits because she was",
+        "figurative_sentence": "She said if the description is accurate because she was",
+        "literal_sentence": "She said if the footwear is the correct size because she was"
+    },
+    {
+        "idiom": "in a fog",
+        "original_sentence": "He was in a fog because he was",
+        "figurative_sentence": "He was mentally confused because he was",
+        "literal_sentence": "He was surrounded by a thick mist because he was"
+    },
+    {
+        "idiom": "in a nutshell",
+        "original_sentence": "The professor explained the concept in a nutshell because it was",
+        "figurative_sentence": "The professor explained the concept briefly and concisely because it was",
+        "literal_sentence": "The professor explained the concept inside a small shell because it was"
+    },
+    {
+        "idiom": "in black and white",
+        "original_sentence": "The facts were presented in black and white because they were",
+        "figurative_sentence": "The facts were presented clearly and unambiguously because they were",
+        "literal_sentence": "The facts were presented in black ink on white paper because they were"
+    },
+    {
+        "idiom": "in deep water",
+        "original_sentence": "He was in deep water because he was",
+        "figurative_sentence": "He was in a difficult or precarious situation because he was",
+        "literal_sentence": "He was submerged in a large body of water because he was"
+    },
+    {
+        "idiom": "in hot water",
+        "original_sentence": "He got in hot water because he was",
+        "figurative_sentence": "He got into trouble because he was",
+        "literal_sentence": "He got into a container of hot water because he was"
+    },
+    {
+        "idiom": "in the bag",
+        "original_sentence": "It was in the bag because it was",
+        "figurative_sentence": "It was certain to happen because it was",
+        "literal_sentence": "It was inside a container made of flexible material because it was"
+    },
+    {
+        "idiom": "in the doghouse",
+        "original_sentence": "He was in the doghouse because he was",
+        "figurative_sentence": "He was in trouble with his partner because he was",
+        "literal_sentence": "He was inside a shelter for dogs because he was"
+    },
+    {
+        "idiom": "keep his shirt on",
+        "original_sentence": "He had to keep his shirt on because he was",
+        "figurative_sentence": "He had to remain calm because he was",
+        "literal_sentence": "He had to keep his upper body clothed because he was"
+    },
+    {
+        "idiom": "keep the ball rolling",
+        "original_sentence": "They had to keep the ball rolling because they were",
+        "figurative_sentence": "They had to maintain the momentum because they were",
+        "literal_sentence": "They had to keep a ball in motion because they were"
+    },
+    {
+        "idiom": "kick himself",
+        "original_sentence": "He would kick himself because he was",
+        "figurative_sentence": "He would regret his actions because he was",
+        "literal_sentence": "He would strike his own body because he was"
+    },
+    {
+        "idiom": "kick in",
+        "original_sentence": "It would kick in because it was",
+        "figurative_sentence": "It would take effect because it was",
+        "literal_sentence": "It would strike with its foot because it was"
+    },
+    {
+        "idiom": "kick in the pants",
+        "original_sentence": "He got a kick in the pants because he was",
+        "figurative_sentence": "He got a sudden motivation because he was",
+        "literal_sentence": "He received a kick on his buttocks because he was"
+    },
+    {
+        "idiom": "kick the bucket",
+        "original_sentence": "He would kick the bucket because he was",
+        "figurative_sentence": "He would die because he was",
+        "literal_sentence": "He would kick the container because he was"
+    },
+    {
+        "idiom": "kick up his heels",
+        "original_sentence": "He will kick up his heels because he is",
+        "figurative_sentence": "He will celebrate and have fun because he is",
+        "literal_sentence": "He will lift his heels off the ground and kick upwards because he is"
+    },
+    {
+        "idiom": "knock him off his feet",
+        "original_sentence": "He would knock him off his feet because he was",
+        "figurative_sentence": "He would greatly surprise or impress him because he was",
+        "literal_sentence": "He would strike him with enough force to make him lose his balance because he was"
+    },
+    {
+        "idiom": "knows enough to come out of the rain",
+        "original_sentence": "She knows enough to come out of the rain because she is",
+        "figurative_sentence": "She has enough common sense to take care of herself because she is",
+        "literal_sentence": "She knows enough to stop standing in the rain and seek shelter because she is"
+    },
+    {
+        "idiom": "knows which side his bread is buttered on",
+        "original_sentence": "He knows which side his bread is buttered on because he is",
+        "figurative_sentence": "He knows who to flatter to get what he wants because he is",
+        "literal_sentence": "He is aware of the side of his bread that has butter on it because he is"
+    },
+    {
+        "idiom": "land on his feet",
+        "original_sentence": "He managed to land on his feet because he was",
+        "figurative_sentence": "He managed to recover quickly from a difficult situation because he was",
+        "literal_sentence": "He managed to have his feet touch the ground in a standing position because he was"
+    },
+    {
+        "idiom": "last straw",
+        "original_sentence": "It was the last straw because it was",
+        "figurative_sentence": "It was the final event that led to a breaking point because it was",
+        "literal_sentence": "It was the last piece of dried grass because it was"
+    },
+    {
+        "idiom": "lay an egg",
+        "original_sentence": "The chicken would lay an egg because it was",
+        "figurative_sentence": "The comedian would fail miserably because it was",
+        "literal_sentence": "The chicken would produce an egg because it was"
+    },
+    {
+        "idiom": "lay his cards on the table",
+        "original_sentence": "He will lay his cards on the table because he was",
+        "figurative_sentence": "He will reveal his intentions because he was",
+        "literal_sentence": "He will place his playing cards on the table because he was"
+    },
+    {
+        "idiom": "leave a bad taste in his mouth",
+        "original_sentence": "The argument would leave a bad taste in his mouth because he was",
+        "figurative_sentence": "The argument would leave him with an unpleasant feeling because he was",
+        "literal_sentence": "The argument would cause his mouth to experience a foul flavor because he was"
+    },
+    {
+        "idiom": "leave no stone unturned",
+        "original_sentence": "They will leave no stone unturned because they are",
+        "figurative_sentence": "They will explore every possible option because they are",
+        "literal_sentence": "They will not leave a single rock unmoved because they are"
+    },
+    {
+        "idiom": "let his hair down",
+        "original_sentence": "He would let his hair down because he was",
+        "figurative_sentence": "He would relax and be himself because he was",
+        "literal_sentence": "He would release his hair from its tied-up position because he was"
+    },
+    {
+        "idiom": "let off steam",
+        "original_sentence": "It would let off steam because it was",
+        "figurative_sentence": "It would release pent-up emotions or tension because it was",
+        "literal_sentence": "It would release steam into the air because it was"
+    },
+    {
+        "idiom": "let him off the hook",
+        "original_sentence": "They let him off the hook because he was",
+        "figurative_sentence": "They excused him from responsibility because he was",
+        "literal_sentence": "They removed him from a fishing hook because he was"
+    },
+    {
+        "idiom": "let the cat out of the bag",
+        "original_sentence": "She let the cat out of the bag because she was",
+        "figurative_sentence": "She revealed the secret because she was",
+        "literal_sentence": "She released the feline from a container because she was"
+    },
+    {
+        "idiom": "lick his chops",
+        "original_sentence": "He started to lick his chops because he was",
+        "figurative_sentence": "He started to feel eager and excited because he was",
+        "literal_sentence": "He started to lick his own mouth because he was"
+    },
+    {
+        "idiom": "little frog in a big pond",
+        "original_sentence": "He felt like a little frog in a big pond because he was",
+        "figurative_sentence": "He felt insignificant and out of place because he was",
+        "literal_sentence": "He felt like a small amphibian in a large body of water because he was"
+    },
+    {
+        "idiom": "looks at the world with rose colored glasses",
+        "original_sentence": "She looks at the world with rose colored glasses because she is",
+        "figurative_sentence": "She has a optimistic view of life because she is",
+        "literal_sentence": "She wears glasses with rose-colored lenses because she is"
+    },
+    {
+        "idiom": "looking for a needle in a haystack",
+        "original_sentence": "She was looking for a needle in a haystack because she was",
+        "figurative_sentence": "She was searching for something almost impossible to find because she was",
+        "literal_sentence": "She was searching for a small sewing needle in a pile of dried grass because she was"
+    },
+    {
+        "idiom": "lose his grip",
+        "original_sentence": "He will lose his grip because he is",
+        "figurative_sentence": "He will lose control of the situation because he is",
+        "literal_sentence": "He will drop what he is holding because he is"
+    },
+    {
+        "idiom": "lose his head",
+        "original_sentence": "He would lose his head because he was",
+        "figurative_sentence": "He would lose control of his emotions or become extremely angry because he was",
+        "literal_sentence": "He would have his head detach from his body because he was"
+    },
+    {
+        "idiom": "lose his shirt",
+        "original_sentence": "He would lose his shirt because he was",
+        "figurative_sentence": "He would go bankrupt because he was",
+        "literal_sentence": "He would misplace his clothing because he was"
+    },
+    {
+        "idiom": "make his ears burn",
+        "original_sentence": "The gossip would make his ears burn because he was",
+        "figurative_sentence": "The gossip would embarrass him greatly because he was",
+        "literal_sentence": "The gossip would cause a fire that would burn his ears because he was"
+    },
+    {
+        "idiom": "make his mouth water",
+        "original_sentence": "The food would make his mouth water because he was",
+        "figurative_sentence": "The food would make him feel hungry and eager to eat because he was",
+        "literal_sentence": "The food would cause saliva to flow from his mouth because he was"
+    },
+    {
+        "idiom": "middle of the road",
+        "original_sentence": "It remained middle of the road because it was",
+        "figurative_sentence": "It remained moderate and unbiased because it was",
+        "literal_sentence": "It stayed in the middle of the road because it was"
+    },
+    {
+        "idiom": "not the only fish in the sea",
+        "original_sentence": "He knew he was not the only fish in the sea because he was",
+        "figurative_sentence": "He knew he had other romantic options because he was",
+        "literal_sentence": "He knew he was not the only aquatic animal in the ocean because he was"
+    },
+    {
+        "idiom": "on cloud nine",
+        "original_sentence": "He was on cloud nine because he was",
+        "figurative_sentence": "He was extremely happy because he was",
+        "literal_sentence": "He was standing on a cloud numbered nine because he was"
+    },
+    {
+        "idiom": "on the nose",
+        "original_sentence": "The smell was on the nose because it was",
+        "figurative_sentence": "The smell was obvious because it was",
+        "literal_sentence": "The smell was located on the nose because it was"
+    },
+    {
+        "idiom": "on the other hand",
+        "original_sentence": "It was on the other hand because it was",
+        "figurative_sentence": "It was from a different perspective because it was",
+        "literal_sentence": "It was on the opposite hand because it was"
+    },
+    {
+        "idiom": "on the road",
+        "original_sentence": "The band is on the road because they are",
+        "figurative_sentence": "The band is touring because they are",
+        "literal_sentence": "The band is standing on a highway because they are"
+    },
+    {
+        "idiom": "on the rocks",
+        "original_sentence": "It was on the rocks because it was",
+        "figurative_sentence": "It was failing because it was",
+        "literal_sentence": "It was sitting on rocks because it was"
+    },
+    {
+        "idiom": "on the town",
+        "original_sentence": "They were on the town because they were",
+        "figurative_sentence": "They were going out to enjoy themselves in the city because they were",
+        "literal_sentence": "They were standing on the streets of the town because they were"
+    },
+    {
+        "idiom": "one foot in the grave",
+        "original_sentence": "He had one foot in the grave because he was",
+        "figurative_sentence": "He was close to death because he was",
+        "literal_sentence": "He had placed one foot in a burial site because he was"
+    },
+    {
+        "idiom": "open his eyes",
+        "original_sentence": "He would open his eyes because he was",
+        "figurative_sentence": "He would become aware of the truth because he was",
+        "literal_sentence": "He would raise his eyelids because he was"
+    },
+    {
+        "idiom": "open the door",
+        "original_sentence": "They would open the door because they were",
+        "figurative_sentence": "They would create an opportunity because they were",
+        "literal_sentence": "They would turn the handle and push the door open because they were"
+    },
+    {
+        "idiom": "out in left field",
+        "original_sentence": "It was out in left field because it was",
+        "figurative_sentence": "It was completely unrelated or unconventional because it was",
+        "literal_sentence": "It was located in the left part of the baseball field because it was"
+    },
+    {
+        "idiom": "out in the cold",
+        "original_sentence": "They left him out in the cold because he was",
+        "figurative_sentence": "They excluded him because he was",
+        "literal_sentence": "They left him outside in the chilly weather because he was"
+    },
+    {
+        "idiom": "out of circulation",
+        "original_sentence": "It was out of circulation because it was",
+        "figurative_sentence": "It was no longer being passed around or shared because it was",
+        "literal_sentence": "It was outside the flow of money because it was"
+    },
+    {
+        "idiom": "out of hand",
+        "original_sentence": "It was rejected out of hand because it was",
+        "figurative_sentence": "It was rejected completely and without consideration because it was",
+        "literal_sentence": "It was rejected by hand because it was"
+    },
+    {
+        "idiom": "out of line",
+        "original_sentence": "The player was out of line because he was",
+        "figurative_sentence": "The player behaved improperly because he was",
+        "literal_sentence": "The player stood outside the line because he was"
+    },
+    {
+        "idiom": "out on a limb",
+        "original_sentence": "He went out on a limb because he was",
+        "figurative_sentence": "He took a risk because he was",
+        "literal_sentence": "He climbed out onto a tree branch because he was"
+    },
+    {
+        "idiom": "over his head",
+        "original_sentence": "It was over his head because he was",
+        "figurative_sentence": "It was too difficult for him to understand because he was",
+        "literal_sentence": "It was floating above his head because he was"
+    },
+    {
+        "idiom": "over the hump",
+        "original_sentence": "They finally got over the hump because they were",
+        "figurative_sentence": "They finally overcame the most difficult part because they were",
+        "literal_sentence": "They finally climbed over the hill because they were"
+    },
+    {
+        "idiom": "pain in the neck",
+        "original_sentence": "He was a pain in the neck because he was",
+        "figurative_sentence": "He was annoying because he was",
+        "literal_sentence": "He was a source of discomfort in the cervical region because he was"
+    },
+    {
+        "idiom": "paint the town",
+        "original_sentence": "They will paint the town because they are",
+        "figurative_sentence": "They will go out and have a good time because they are",
+        "literal_sentence": "They will apply paint to the buildings and streets of the town because they are"
+    },
+    {
+        "idiom": "play with fire",
+        "original_sentence": "They play with fire because they are",
+        "figurative_sentence": "They take a huge risk because they are",
+        "literal_sentence": "They hold a match to flames for entertainment because they are"
+    },
+    {
+        "idiom": "pound the pavement",
+        "original_sentence": "He would pound the pavement because he was",
+        "figurative_sentence": "He would look for a job because he was",
+        "literal_sentence": "He would hit the pavement forcefully with his fists because he was"
+    },
+    {
+        "idiom": "pull his leg",
+        "original_sentence": "He would pull his leg because he was",
+        "figurative_sentence": "He would tease him because he was",
+        "literal_sentence": "He would grab his leg and pull it because he was"
+    },
+    {
+        "idiom": "pulled out of a hat",
+        "original_sentence": "He pulled out of a hat because he was",
+        "figurative_sentence": "He came up with an unexpected idea because he was",
+        "literal_sentence": "He removed something from a hat because he was"
+    },
+    {
+        "idiom": "pulled the rug out from under",
+        "original_sentence": "They pulled the rug out from under because they were",
+        "figurative_sentence": "They suddenly withdrew their support because they were",
+        "literal_sentence": "They yanked the floor covering out from under because they were"
+    },
+    {
+        "idiom": "pull the wool over his eyes",
+        "original_sentence": "He tried to pull the wool over his eyes because he was",
+        "figurative_sentence": "He tried to deceive him because he was",
+        "literal_sentence": "He tried to put wool over his eyeballs because he was"
+    },
+    {
+        "idiom": "pulling teeth",
+        "original_sentence": "She was pulling teeth because she was",
+        "figurative_sentence": "She was having a very difficult time because she was",
+        "literal_sentence": "She was extracting teeth because she was"
+    },
+    {
+        "idiom": "put his foot down",
+        "original_sentence": "He would put his foot down because he was",
+        "figurative_sentence": "He would take a firm stance because he was",
+        "literal_sentence": "He would place his foot on the ground because he was"
+    },
+    {
+        "idiom": "put that in your pipe and smoke it",
+        "original_sentence": "He told them to put that in your pipe and smoke it because he was",
+        "figurative_sentence": "He told them to think about that and accept it because he was",
+        "literal_sentence": "He told them to insert that into their pipe and inhale the smoke because he was"
+    },
+    {
+        "idiom": "raise eyebrows",
+        "original_sentence": "It would make him to raise eyebrows because it was",
+        "figurative_sentence": "It would cause him to be surprised or shocked because it was",
+        "literal_sentence": "It would make him to lift his eyebrows up because it was"
+    },
+    {
+        "idiom": "reach for the sky",
+        "original_sentence": "They will reach for the sky because they are",
+        "figurative_sentence": "They will strive for excellence because they are",
+        "literal_sentence": "They will stretch their arms up towards the sky because they are"
+    },
+    {
+        "idiom": "rob the cradle",
+        "original_sentence": "They would rob the cradle because they were",
+        "figurative_sentence": "They would marry someone much younger because they were",
+        "literal_sentence": "They would steal from a baby's bed because they were"
+    },
+    {
+        "idiom": "rock the boat",
+        "original_sentence": "They tried not to rock the boat because they were",
+        "figurative_sentence": "They tried not to cause trouble or upset the situation because they were",
+        "literal_sentence": "They tried not to move the boat violently from side to side because they were"
+    },
+    {
+        "idiom": "roll out the red carpet",
+        "original_sentence": "They will roll out the red carpet because they are",
+        "figurative_sentence": "They will give a special welcome because they are",
+        "literal_sentence": "They will unroll a red-colored carpet because they are"
+    },
+    {
+        "idiom": "roll up his sleeves",
+        "original_sentence": "He began to roll up his sleeves because he was",
+        "figurative_sentence": "He began to prepare to work hard because he was",
+        "literal_sentence": "He began to fold the cuffs of his shirt upwards because he was"
+    },
+    {
+        "idiom": "rubs the wrong way",
+        "original_sentence": "He rubs the wrong way because he is",
+        "figurative_sentence": "He annoys or offends people because he is",
+        "literal_sentence": "He is rubbing in the incorrect direction because he is"
+    },
+    {
+        "idiom": "run circles around",
+        "original_sentence": "She can run circles around because she is",
+        "figurative_sentence": "She can outperform or surpass others because she is",
+        "literal_sentence": "She can run around in circular paths because she is"
+    },
+    {
+        "idiom": "run into a brick wall",
+        "original_sentence": "They will run into a brick wall because they are",
+        "figurative_sentence": "They will encounter an insurmountable obstacle because they are",
+        "literal_sentence": "They will collide with a wall made of bricks because they are"
+    },
+    {
+        "idiom": "scrape the bottom of the barrel",
+        "original_sentence": "They had to scrape the bottom of the barrel because they were",
+        "figurative_sentence": "They had to accept the worst or least desirable option because they were",
+        "literal_sentence": "They had to remove the last bits of something from the bottom of a container because they were"
+    },
+    {
+        "idiom": "scratch his back",
+        "original_sentence": "He will scratch his back because he is",
+        "figurative_sentence": "He will return a favor because he is",
+        "literal_sentence": "He will rub his own back to relieve an itch because he is"
+    },
+    {
+        "idiom": "scratch the surface",
+        "original_sentence": "They scratch the surface because they are",
+        "figurative_sentence": "They only deal with the most obvious aspects because they are",
+        "literal_sentence": "They rub their fingers on the outer layer because they are"
+    },
+    {
+        "idiom": "saw stars",
+        "original_sentence": "He saw stars because he was",
+        "figurative_sentence": "He felt dizzy because he was",
+        "literal_sentence": "He saw celestial bodies in the sky because he was"
+    },
+    {
+        "idiom": "see the color of his money",
+        "original_sentence": "He wanted to see the color of his money because he was",
+        "figurative_sentence": "He wanted to be paid because he was",
+        "literal_sentence": "He wanted to see the actual color of the currency he was using because he was"
+    },
+    {
+        "idiom": "see the light of day",
+        "original_sentence": "They will see the light of day because they were",
+        "figurative_sentence": "They will be born because they were",
+        "literal_sentence": "They will witness daylight because they were"
+    },
+    {
+        "idiom": "separate the men from the boys",
+        "original_sentence": "The coach will separate the men from the boys because they are",
+        "figurative_sentence": "The coach will distinguish the mature and capable individuals from the immature and inexperienced ones because they are",
+        "literal_sentence": "The coach will divide the adult males from the male children because they are"
+    },
+    {
+        "idiom": "shake a leg",
+        "original_sentence": "She had to shake a leg because she was",
+        "figurative_sentence": "She had to hurry because she was",
+        "literal_sentence": "She had to move her leg back and forth because she was"
+    },
+    {
+        "idiom": "shoe is on the other foot",
+        "original_sentence": "The shoe is on the other foot because it is",
+        "figurative_sentence": "The situation is reversed because it is",
+        "literal_sentence": "The shoe has been placed on the opposite foot because it is"
+    },
+    {
+        "idiom": "shot in the arm",
+        "original_sentence": "It was a shot in the arm because it was",
+        "figurative_sentence": "It was a sudden boost of energy and motivation because it was",
+        "literal_sentence": "It was an injection in the arm because it was"
+    },
+    {
+        "idiom": "sing a different tune",
+        "original_sentence": "They will sing a different tune because they are",
+        "figurative_sentence": "They will change their opinion because they are",
+        "literal_sentence": "They will sing a new melody because they are"
+    },
+    {
+        "idiom": "sit on his hands",
+        "original_sentence": "He would sit on his hands because he was",
+        "figurative_sentence": "He would refrain from taking action because he was",
+        "literal_sentence": "He would place his hands underneath him and sit on them because he was"
+    },
+    {
+        "idiom": "skate on thin ice",
+        "original_sentence": "They will skate on thin ice because they are",
+        "figurative_sentence": "They will take a risk because they are",
+        "literal_sentence": "They will engage in ice skating on a fragile frozen surface because they are"
+    },
+    {
+        "idiom": "skeleton in the closet",
+        "original_sentence": "The family had a skeleton in the closet because they were",
+        "figurative_sentence": "The family had a dark secret because they were",
+        "literal_sentence": "The family had a human skeleton stored in their closet because they were"
+    },
+    {
+        "idiom": "skin off his nose",
+        "original_sentence": "He would skin off his nose because he was",
+        "figurative_sentence": "He wouldn't be bothered or affected because he was",
+        "literal_sentence": "He would peel the skin off his nose because he was"
+    },
+    {
+        "idiom": "slip through his fingers",
+        "original_sentence": "It would slip through his fingers because he was",
+        "figurative_sentence": "It would escape or be lost to him because he was",
+        "literal_sentence": "It would slide through his fingertips because he was"
+    },
+    {
+        "idiom": "snake in the grass",
+        "original_sentence": "There was a snake in the grass because it was",
+        "figurative_sentence": "There was a hidden threat or danger because it was",
+        "literal_sentence": "There was a reptile hiding in the lawn because it was"
+    },
+    {
+        "idiom": "spilled the beans",
+        "original_sentence": "She spilled the beans because she was",
+        "figurative_sentence": "She revealed the secret because she was",
+        "literal_sentence": "She dropped the food legumes because she was"
+    },
+    {
+        "idiom": "stab him in the back",
+        "original_sentence": "He felt like someone would stab him in the back because he was",
+        "figurative_sentence": "He felt like someone would betray him because he was",
+        "literal_sentence": "He felt like someone would thrust a knife into his back because he was"
+    },
+    {
+        "idiom": "stand on his own two feet",
+        "original_sentence": "He needed to stand on his own two feet because he was",
+        "figurative_sentence": "He needed to be independent because he was",
+        "literal_sentence": "He needed to balance himself upright on his own two feet because he was"
+    },
+    {
+        "idiom": "step into his shoes",
+        "original_sentence": "He had to step into his shoes because he was",
+        "figurative_sentence": "He had to take his place or assume his responsibilities because he was",
+        "literal_sentence": "He had to put his feet into the shoes that belonged to him because he was"
+    },
+    {
+        "idiom": "step on his toes",
+        "original_sentence": "He would step on his toes because he was",
+        "figurative_sentence": "He would offend or annoy him because he was",
+        "literal_sentence": "He would place his foot on the other person's toes because he was"
+    },
+    {
+        "idiom": "stir up a hornet's nest",
+        "original_sentence": "He would stir up a hornet's nest because he was",
+        "figurative_sentence": "He would create a lot of trouble because he was",
+        "literal_sentence": "He would disturb a nest of hornets because he was"
+    },
+    {
+        "idiom": "swelled head",
+        "original_sentence": "He had a swelled head because he was",
+        "figurative_sentence": "He was conceited because he was",
+        "literal_sentence": "He had an enlarged skull because he was"
+    },
+    {
+        "idiom": "tail between his legs",
+        "original_sentence": "He went home with his tail between his legs because he was",
+        "figurative_sentence": "He went home feeling defeated and ashamed because he was",
+        "literal_sentence": "He went home with his rear appendage positioned between his legs because he was"
+    },
+    {
+        "idiom": "take a back seat",
+        "original_sentence": "He would take a back seat because he was",
+        "figurative_sentence": "He would assume a less important role because he was",
+        "literal_sentence": "He would sit in the rear of the vehicle because he was"
+    },
+    {
+        "idiom": "took him for a ride",
+        "original_sentence": "They took him for a ride because he was",
+        "figurative_sentence": "They deceived or cheated him because he was",
+        "literal_sentence": "They gave him a lift in a vehicle because he was"
+    },
+    {
+        "idiom": "take his breath away",
+        "original_sentence": "It would take his breath away because he was",
+        "figurative_sentence": "It would leave him speechless because he was",
+        "literal_sentence": "It would steal the air from his lungs because he was"
+    },
+    {
+        "idiom": "take his medicine",
+        "original_sentence": "He had to take his medicine because he was",
+        "figurative_sentence": "He had to accept the unpleasant consequences because he was",
+        "literal_sentence": "He had to swallow a medicinal substance because he was"
+    },
+    {
+        "idiom": "took note of",
+        "original_sentence": "He took note of because he was",
+        "figurative_sentence": "He paid attention to because he was",
+        "literal_sentence": "He wrote down a note about because he was"
+    },
+    {
+        "idiom": "take root",
+        "original_sentence": "It would take root because it was",
+        "figurative_sentence": "It would become established or accepted because it was",
+        "literal_sentence": "It would grow roots like a plant because it was"
+    },
+    {
+        "idiom": "take the cake",
+        "original_sentence": "She would take the cake because she was",
+        "figurative_sentence": "She would win the prize or be considered the best because she was",
+        "literal_sentence": "She would pick up the dessert because she was"
+    },
+    {
+        "idiom": "take it with a grain of salt",
+        "original_sentence": "You should take it with a grain of salt because it is",
+        "figurative_sentence": "You should be skeptical about it because it is",
+        "literal_sentence": "You should consume it with a small amount of salt because it is"
+    },
+    {
+        "idiom": "tan his hide",
+        "original_sentence": "He would tan his hide because he was",
+        "figurative_sentence": "He would punish him severely because he was",
+        "literal_sentence": "He would apply a tanning solution to his animal skin because he was"
+    },
+    {
+        "idiom": "three ring circus",
+        "original_sentence": "It was a three ring circus because it was",
+        "figurative_sentence": "It was a chaotic and confusing situation because it was",
+        "literal_sentence": "It was a circus with three rings because it was"
+    },
+    {
+        "idiom": "throw cold water on",
+        "original_sentence": "It would throw cold water on because it was",
+        "figurative_sentence": "It would discourage or dampen enthusiasm because it was",
+        "literal_sentence": "It would toss chilled water on something because it was"
+    },
+    {
+        "idiom": "throw himself at her feet",
+        "original_sentence": "He would throw himself at her feet because he was",
+        "figurative_sentence": "He would humble himself and beg for her mercy because he was",
+        "literal_sentence": "He would propel his body to land at her feet because he was"
+    },
+    {
+        "idiom": "throw up his hands",
+        "original_sentence": "He would throw up his hands because he was",
+        "figurative_sentence": "He would give up in frustration because he was",
+        "literal_sentence": "He would raise his hands up in the air because he was"
+    },
+    {
+        "idiom": "tie his hands",
+        "original_sentence": "It would tie his hands because it was",
+        "figurative_sentence": "It would restrict his actions because it was",
+        "literal_sentence": "It would bind his hands together with a rope because it was"
+    },
+    {
+        "idiom": "tie in knots",
+        "original_sentence": "They would tie in knots because they were",
+        "figurative_sentence": "They would become extremely anxious or confused because they were",
+        "literal_sentence": "They would tie ropes in knots because they were"
+    },
+    {
+        "idiom": "tighten his belt",
+        "original_sentence": "He had to tighten his belt because he was",
+        "figurative_sentence": "He had to reduce his spending because he was",
+        "literal_sentence": "He had to make his belt smaller because he was"
+    },
+    {
+        "idiom": "tip the scales",
+        "original_sentence": "It will tip the scales because it is",
+        "figurative_sentence": "It will be the deciding factor because it is",
+        "literal_sentence": "It will cause the scales to tilt because it is"
+    },
+    {
+        "idiom": "too big for his britches",
+        "original_sentence": "He was too big for his britches because he was",
+        "figurative_sentence": "He was too arrogant for his own good because he was",
+        "literal_sentence": "He had outgrown his pants because he was"
+    },
+    {
+        "idiom": "turn the tables",
+        "original_sentence": "They will turn the tables because they are",
+        "figurative_sentence": "They will reverse the situation to their advantage because they are",
+        "literal_sentence": "They will rotate the furniture because they are"
+    },
+    {
+        "idiom": "twist his arm",
+        "original_sentence": "They had to twist his arm because he was",
+        "figurative_sentence": "They had to persuade him because he was",
+        "literal_sentence": "They had to rotate his arm because he was"
+    },
+    {
+        "idiom": "under his belt",
+        "original_sentence": "He had something under his belt because he was",
+        "figurative_sentence": "He had some experience because he was",
+        "literal_sentence": "He had something tucked under his waistline because he was"
+    },
+    {
+        "idiom": "under his thumb",
+        "original_sentence": "She was under his thumb because she was",
+        "figurative_sentence": "She was completely controlled by him because she was",
+        "literal_sentence": "She was located under his thumb because she was"
+    },
+    {
+        "idiom": "under the counter",
+        "original_sentence": "The store owner sold the goods under the counter because he was",
+        "figurative_sentence": "The store owner sold the goods secretly because he was",
+        "literal_sentence": "The store owner sold the goods from a location beneath the counter because he was"
+    },
+    {
+        "idiom": "under the sun",
+        "original_sentence": "Nothing is perfect under the sun because it is",
+        "figurative_sentence": "Nothing is perfect in the world because it is",
+        "literal_sentence": "Nothing is perfect in the sunlight because it is"
+    },
+    {
+        "idiom": "up a tree",
+        "original_sentence": "The cat went up a tree because it was",
+        "figurative_sentence": "The cat was in a difficult or precarious situation because it was",
+        "literal_sentence": "The cat climbed a tree because it was"
+    },
+    {
+        "idiom": "up the creek",
+        "original_sentence": "They were up the creek because they were",
+        "figurative_sentence": "They were in a difficult or precarious situation because they were",
+        "literal_sentence": "They were located higher on the creek because they were"
+    },
+    {
+        "idiom": "up the creek without a paddle",
+        "original_sentence": "They were up the creek without a paddle because they were",
+        "figurative_sentence": "They were in a difficult situation without a solution because they were",
+        "literal_sentence": "They were at a higher location on the creek without a device to propel a boat because they were"
+    },
+    {
+        "idiom": "water over the dam",
+        "original_sentence": "The issue was water over the dam because it was",
+        "figurative_sentence": "The issue was in the past and couldn't be changed because it was",
+        "literal_sentence": "The issue was water flowing over a dam because it was"
+    },
+    {
+        "idiom": "water under the bridge",
+        "original_sentence": "It was water under the bridge because it was",
+        "figurative_sentence": "It was a past issue that was no longer worth worrying about because it was",
+        "literal_sentence": "It was water flowing under the bridge because it was"
+    },
+    {
+        "idiom": "way the wind blows",
+        "original_sentence": "It will go the way the wind blows because it is",
+        "figurative_sentence": "It will follow the prevailing trend or majority opinion because it is",
+        "literal_sentence": "It will move in the direction the air is blowing because it is"
+    },
+    {
+        "idiom": "wear the pants",
+        "original_sentence": "She will wear the pants because she is",
+        "figurative_sentence": "She will be in charge because she is",
+        "literal_sentence": "She will put on a pair of pants because she is"
+    },
+    {
+        "idiom": "wet behind the ears",
+        "original_sentence": "He was wet behind the ears because he was",
+        "figurative_sentence": "He was inexperienced because he was",
+        "literal_sentence": "He had moisture behind his ears because he was"
+    }
+]
