@@ -178,7 +178,7 @@ if __name__ == "__main__":
 
 
         patched_stream_diff_np_lit = patched_stream_diff_lit.cpu().numpy()
-        np.savez(f'{lit_dir}/idiom_{i}.npz', patched_stream_diff_lit)
+        np.savez(f'{lit_dir}/idiom_{i}.npz', patched_stream_diff_np_lit)
 
         patched_stream_diff_np_fig = patched_stream_diff_fig.cpu().numpy()
-        np.savez(f'{fig_dir}/idiom_{i}.npz', patched_stream_diff_fig)
+        np.savez(f'{fig_dir}/idiom_{i}.npz', patched_stream_diff_np_fig)
