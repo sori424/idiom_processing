@@ -79,7 +79,7 @@ for i, item in enumerate(data):
     orig_sentence_last_token = item['original_sentence']
     last_token_queries.append(orig_sentence_last_token)
 
-    orig_sentence_second_subsequent_token = item['original_sentence'] + ' because ' + item['original_sentence'].split(' because')[1].split(' ')[1]
+    orig_sentence_second_subsequent_token = item['original_sentence'].split(' because')[0] + ' because ' + item['original_sentence'].split(' because')[1].split(' ')[1]
     second_subsequent_token_queries.append(orig_sentence_second_subsequent_token)
 
     orig_sentence_last_idiom_token = item['original_sentence'].split(' because')[0] 
